@@ -8,9 +8,8 @@ authors:
     email: "123026.urahigashi.toshihisa@gmail.com"
     affiliation: "Independent researcher"
     orcid: "https://orcid.org/0009-0004-0460-6242"
-version: "1.0.0-pre"
-# No DOI yet: this artifact has not been deposited.  A version DOI will be
-# added here at the moment the accompanying paper is submitted.
+version: "1.0.4-pre"
+doi: 10.5281/zenodo.22336441
 license: Apache-2.0
 repository-code: "https://github.com/turahigashi/hypergroup-choice-calibration"
 keywords:
