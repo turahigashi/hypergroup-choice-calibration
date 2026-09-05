@@ -1,0 +1,10 @@
+.lake/
+build/
+*.olean
+*.ilean
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.synctex.gz
+__pycache__/
+*.pyc

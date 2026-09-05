@@ -1,0 +1,62 @@
+'Hypergroups.Calibration.GroupModulo' does not depend on any axioms
+'Hypergroups.Calibration.groupModulo_of_stronglyRegular' does not depend on any axioms
+'Hypergroups.Calibration.setoidOf' does not depend on any axioms
+'Hypergroups.Calibration.qmul' depends on axioms: [Classical.choice, Quot.sound]
+'Hypergroups.Calibration.qmul_mk' depends on axioms: [Classical.choice, Quot.sound]
+'Hypergroups.Calibration.qone' depends on axioms: [Classical.choice]
+'Hypergroups.Calibration.qmul_assoc' depends on axioms: [Classical.choice, Quot.sound]
+'Hypergroups.Calibration.qone_mul' depends on axioms: [Classical.choice, Quot.sound]
+'Hypergroups.Calibration.qexists_inv' depends on axioms: [Classical.choice, Quot.sound]
+'Hypergroups.Calibration.qinv' depends on axioms: [Classical.choice, Quot.sound]
+'Hypergroups.Calibration.qinv_mul' depends on axioms: [Classical.choice, Quot.sound]
+'Hypergroups.Calibration.groupOfGroupModulo' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Hypergroups.Calibration.srQuotientGroup_via_modulo' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Hypergroups.Calibration.GroupModuloData' does not depend on any axioms
+'Hypergroups.Calibration.dmul' depends on axioms: [Quot.sound]
+'Hypergroups.Calibration.dmul_mk' depends on axioms: [Quot.sound]
+'Hypergroups.Calibration.done' does not depend on any axioms
+'Hypergroups.Calibration.dinv' depends on axioms: [Quot.sound]
+'Hypergroups.Calibration.dmul_assoc' depends on axioms: [Quot.sound]
+'Hypergroups.Calibration.done_mul' depends on axioms: [Quot.sound]
+'Hypergroups.Calibration.dinv_mul' depends on axioms: [Quot.sound]
+'Hypergroups.Calibration.groupOfGroupModuloData' depends on axioms: [propext, Quot.sound]
+'Hypergroups.Calibration.dataOfGroupModulo' depends on axioms: [Classical.choice]
+'Hypergroups.Calibration.RDescription' does not depend on any axioms
+'Hypergroups.Calibration.UnitMod' does not depend on any axioms
+'Hypergroups.Calibration.InvMod' does not depend on any axioms
+'Hypergroups.Calibration.classicalRDescription' depends on axioms: [Classical.choice]
+'Hypergroups.Calibration.unitMod_unique' does not depend on any axioms
+'Hypergroups.Calibration.invMod_unique' does not depend on any axioms
+'Hypergroups.Calibration.GroupModuloSelections' does not depend on any axioms
+'Hypergroups.Calibration.dataOfSelections' does not depend on any axioms
+'Hypergroups.Calibration.selectionsOfDescription' does not depend on any axioms
+'Hypergroups.Calibration.dataOfGroupModuloWithDescription' does not depend on any axioms
+'Hypergroups.Calibration.dataOfGroupModulo_via_description' depends on axioms: [Classical.choice]
+'Hypergroups.Calibration.HypergroupW' does not depend on any axioms
+'Hypergroups.Calibration.groupModuloDataOfWitness' does not depend on any axioms
+'Hypergroups.Calibration.quotientGroupOfWitness' depends on axioms: [propext, Quot.sound]
+'Hypergroups.Calibration.totalW' depends on axioms: [propext, Quot.sound]
+'Hypergroups.Calibration.totalW_multivalued' depends on axioms: [propext, Quot.sound]
+'Hypergroups.Calibration.prodW' depends on axioms: [propext, Quot.sound]
+'Hypergroups.Calibration.prodW_multivalued' depends on axioms: [propext, Quot.sound]
+'Hypergroups.Calibration.prodW_fstRel_stronglyRegular' depends on axioms: [propext, Quot.sound]
+'Hypergroups.Calibration.prodW_quotient_nontrivial' depends on axioms: [propext]
+'Hypergroups.Calibration.prodW_quotient_classes_distinct' depends on axioms: [propext, Quot.sound]
+'Hypergroups.Calibration.prodW_quotientEquiv' depends on axioms: [propext, Quot.sound]
+'Hypergroups.Calibration.prodW_quotientEquiv_mul' depends on axioms: [propext, Quot.sound]
+'Hypergroups.stronglyRegular_to_oneSided' does not depend on any axioms
+'Hypergroups.stronglyRegular_of_oneSided' does not depend on any axioms
+'Hypergroups.koskas_relBar_of_relBarBar' does not depend on any axioms
+'Hypergroups.koskas_regular_of_stronglyRegular' does not depend on any axioms
+'Hypergroups.koskas_prop2b_meet_regular' does not depend on any axioms
+'Hypergroups.koskas_prop2b_stronglyRegular_of_subset' does not depend on any axioms
+'Hypergroups.koskas_regular_eq_total' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Hypergroups.koskas_regular_not_stronglyRegular' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Hypergroups.betaStar_subset_of_stronglyRegular' depends on axioms: [propext]
+'Hypergroups.betaStar_stronglyRegular' depends on axioms: [propext, Quot.sound]
+'Hypergroups.betaRel_transitive_hypergroup' depends on axioms: [propext, Quot.sound]
+'Hypergroups.betaRel_transitive_iff_completeClosure_eq_one' depends on axioms: [propext, Quot.sound]
+'Hypergroups.srMul_assoc' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Hypergroups.srMul_exists_id' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Hypergroups.srMul_exists_inv' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Hypergroups.srQuotientGroup' depends on axioms: [propext, Classical.choice, Quot.sound]

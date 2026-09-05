@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this artifact, please cite the accompanying paper and this software artifact."
+title: "hypergroup-choice-calibration: a Lean 4 artifact calibrating where the axiom of choice enters the fundamental theorem of hypergroups"
+type: software
+authors:
+  - family-names: Urahigashi
+    given-names: Toshihisa
+    email: "123026.urahigashi.toshihisa@gmail.com"
+    affiliation: "Independent researcher"
+    orcid: "https://orcid.org/0009-0004-0460-6242"
+version: "1.0.0-pre"
+# No DOI yet: this artifact has not been deposited.  A version DOI will be
+# added here at the moment the accompanying paper is submitted.
+license: Apache-2.0
+repository-code: "https://github.com/turahigashi/hypergroup-choice-calibration"
+keywords:
+  - Lean 4
+  - formalization
+  - axiom of choice
+  - unique choice
+  - axiom of descriptions
+  - setoid
+  - hypergroup
+  - hyperstructure
+  - fundamental relation
+  - constructive algebra
