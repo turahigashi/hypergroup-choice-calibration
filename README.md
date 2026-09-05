@@ -6,6 +6,10 @@ fundamental theorem of hypergroup theory.
 This repository is the artifact accompanying the paper *Choice in the Fundamental Theorem of
 Hypergroups: A Machine-Checked Axiom-Dependency Calibration*.
 
+The version cited in the paper is the annotated tag [`v1.0.4-pre`](https://github.com/turahigashi/hypergroup-choice-calibration/tree/v1.0.4-pre),
+archived at [doi:10.5281/zenodo.22336441](https://doi.org/10.5281/zenodo.22336441). That snapshot,
+not the current state of `main`, is the object the paper's measurements were taken from.
+
 ## The result, in one table
 
 A **hypergroup** (Marty, 1934) has an associative, reproductive operation whose values are non-empty
