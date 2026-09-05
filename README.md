@@ -24,10 +24,12 @@ footprints are produced by `#print axioms` when this development is built.
 | the standard route (`srQuotientGroup`) | `propext`, `Classical.choice`, `Quot.sound` |
 | `β` is transitive, i.e. `β = β*` (Freni, via Gutan) | `propext`, `Quot.sound` |
 
-So the classical choice used by the standard construction is confined to one layer — the passage
-from propositional existence to *selected* algebraic data (a product representative, a unit, and
-inverses) — and that layer is an instance of the setoid *axiom of descriptions* (unique choice),
-not of full choice.
+So the classical choice used by the standard construction is confined, in the factorization studied
+here, to one layer — the passage from propositional existence to *selected* algebraic data (a product
+representative, a unit, and inverses). That layer factors through a local selector interface having
+the same total-functional-relation-to-map shape as the setoid *axiom of descriptions* (unique
+choice). We do not claim that this interface is minimal, necessary, or equivalent to any particular
+global choice principle.
 
 **These are one-sided dependency upper bounds**, measured on particular proof terms. They are not
 reverse-mathematical lower bounds: nothing here shows that any choice principle is *necessary*.
