@@ -60,3 +60,4 @@
 'Hypergroups.srMul_exists_id' depends on axioms: [propext, Classical.choice, Quot.sound]
 'Hypergroups.srMul_exists_inv' depends on axioms: [propext, Classical.choice, Quot.sound]
 'Hypergroups.srQuotientGroup' depends on axioms: [propext, Classical.choice, Quot.sound]
+'Classical.em' depends on axioms: [propext, Classical.choice, Quot.sound]

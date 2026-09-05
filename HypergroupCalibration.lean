@@ -2011,6 +2011,8 @@ section Audit
 #print axioms Hypergroups.srMul_exists_id
 #print axioms Hypergroups.srMul_exists_inv
 #print axioms Hypergroups.srQuotientGroup
+-- Ambient comparison used explicitly in the paper.
+#print axioms Classical.em
 end Audit
 
 end Hypergroups

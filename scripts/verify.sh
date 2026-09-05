@@ -13,7 +13,7 @@ status=$?
 if grep -q "error" "$out"; then
   echo "FAIL: Lean reported errors"; grep "error" "$out" | head; exit 1
 fi
-grep -E "^'Hypergroups\..*'( does not depend on any axioms| depends on axioms:)" "$out" > "$out.ax"
+grep -E "^'[^']+'( does not depend on any axioms| depends on axioms:)" "$out" > "$out.ax"
 if diff -u logs/axioms.txt "$out.ax"; then
   echo "OK: $(wc -l < "$out.ax") axiom measurements reproduced exactly"
 else
