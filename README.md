@@ -9,9 +9,10 @@ Hypergroups: A Machine-Checked Axiom-Dependency Calibration*.
 ## The result, in one table
 
 A **hypergroup** (Marty, 1934) has an associative, reproductive operation whose values are non-empty
-*sets*. A **strongly regular** equivalence `R` induces the usual group quotient. Every classical
-construction of that quotient selects a representative of the hyperproduct `a ∘ b`. The following
-footprints are produced by `#print axioms` when this development is built.
+*sets*. A **strongly regular** equivalence `R` induces the usual group quotient. The standard
+construction used in the classical treatments examined for the paper selects a representative from
+`a ∘ b`; strong regularity makes its class independent of that selection. The following footprints
+are produced by `#print axioms` when this development is built.
 
 | step | axioms |
 |---|---|
